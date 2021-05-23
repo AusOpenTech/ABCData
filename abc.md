@@ -9,12 +9,8 @@ This could have three significant negative impacts: first, the need to log in is
 
 Logging in may seem simple for a young, literate adult, but is much less so for many Australians. The ABC's free and open content was a fantastic resource for everyone during the pandemic. Putting a login-wall in front of it would significantly lower the number of small children who could easily access it without parental help.  (I imagine the same is true for the elderly or others who struggle with sophisticated technology.) This would not keep the children safer – it would simply push them onto lower-quality platforms without a login. 
 
-I do not believe you have genuine consent for data collection or sharing. Your informal public statements about data collection are incomplete, because they give the impression that only some demographic information will be collected (such as postcode and year of birth). Many do not even mention gathering viewing data,[^1] though of course the “personalised experiences” and “recommendations” algorithms must be fuelled with extensive data on viewing habits uploaded from a very large number of users.  Your “Privacy Collection Statement”[^2] mentions that some data is uploaded at registration, and refers briefly to the sharing of “data we collect about your use of our digital services, including behavioural and location data,” but does not make clear that viewing data will continue to be uploaded while the logged-in person watches. (I acknowledge that the Privacy Policy is more explicit about both collection and sharing of this data. I also acknowledge that there is an opt-out for on-selling of data, though this is only for account holders and does not allow opting out of collection.)
-
-[^1]: [ABC iview will soon ask you to create an account to keep watching. Here's why](https://www.abc.net.au/news/backstory/2021-05-10/backstory-abc-iview-asking-for-info-to-be-more-personalised/100129590) Last accessed May 23 2021
-
-[^2]: [ABC Privacy Collection Statement](https://help.abc.net.au/hc/en-us/articles/360001511015-ABC-Privacy-Collection-Statement-) Last accessed May 23 2021
-
+I do not believe you have genuine consent for data collection or sharing. Your informal public statements about data collection are incomplete, because they give the impression that only some demographic information will be collected (such as postcode and year of birth). Many do not even mention gathering viewing data,<sup>[1](#iviewAccount)</sup>
+though of course the “personalised experiences” and “recommendations” algorithms must be fuelled with extensive data on viewing habits uploaded from a very large number of users.  Your “Privacy Collection Statement”<sup>[1](#collectionStatement)</sup> mentions that some data is uploaded at registration, and refers briefly to the sharing of “data we collect about your use of our digital services, including behavioural and location data,” but does not make clear that viewing data will continue to be uploaded while the logged-in person watches. (I acknowledge that the Privacy Policy is more explicit about both collection and sharing of this data. I also acknowledge that there is an opt-out for on-selling of data, though this is only for account holders and does not allow opting out of collection.)
 
 You do not seem to have considered how sensitive a person’s ABC viewing or listening habits may be, or how much harm could be done when they are shared. Many Australians go to the ABC as a trusted source of information on controversial issues. A student from an authoritarian country who likes to watch shows about democracy, or a teenager from a conservative family who takes an interest in gender fludity or religious skepticism, may suffer significant harm if these preferences are exposed. I do not believe you have genuine consent to gather or share this information, particularly since the data is likely to be very easily identifiable by Google, Facebook, the Chinese Communist Party, or other sophisticated data gatherers with whom it might (directly or indirectly) be shared. 
 
@@ -33,4 +29,9 @@ Yours sincerely,
 
 Vanessa Teague.
 
-CEO, Thinking Cybersecurity Pty Ltd.
+------
+
+<A name="iviewAccount">1</A>: [ABC iview will soon ask you to create an account to keep watching. Here's why](https://www.abc.net.au/news/backstory/2021-05-10/backstory-abc-iview-asking-for-info-to-be-more-personalised/100129590) Last accessed May 23 2021
+
+<A name="#collectionStatement">2</A>:: [ABC Privacy Collection Statement](https://help.abc.net.au/hc/en-us/articles/360001511015-ABC-Privacy-Collection-Statement-) Last accessed May 23 2021
+
