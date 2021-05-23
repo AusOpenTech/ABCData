@@ -3,7 +3,7 @@
 
 Dear ABC board,
 
-I believe the decision to gather viewing data from ABC viewers and force ABC viewers to log in to iview is ill-considered and should be reversed.  Commercial operators need to make money, and require their viewers to pay for content, either directly (with money) or indirectly (with data). The ABC is publicly funded, and should not require us to pay with our data for content we have already paid to create. This objection applies to all linked viewing data, whether linked through an ABC account or via cookies, IP address, etc.
+I believe the decision to gather viewing data from ABC viewers and force ABC viewers to log in to iview is ill-considered and should be reversed.  Commercial operators need to make money - they require their viewers to pay for content, either directly (with money) or indirectly (with data). The ABC is publicly funded, and should not require us to pay with our data for content we have already paid to create. This objection applies to all linked viewing data, whether linked through an ABC account or via cookies, IP address, etc.
 
 This could have three significant negative impacts: first, the need to log in is a barrier to access that might exclude small children, the elderly, or others who have less familiarity with technology.  Second, the data sharing is potentially harmful, but has not been transparently explained, and therefore cannot be genuinely consented to.  Finally, I believe the role of a public broadcaster is to support a shared conversation among all Australians, even those of very different backgrounds and views - "personalised experiences" are the opposite of this core goal.
 
