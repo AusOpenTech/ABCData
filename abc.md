@@ -33,5 +33,5 @@ Vanessa Teague.
 
 <A name="iviewAccount">1</A>: [ABC iview will soon ask you to create an account to keep watching. Here's why](https://www.abc.net.au/news/backstory/2021-05-10/backstory-abc-iview-asking-for-info-to-be-more-personalised/100129590) Last accessed May 23 2021
 
-<A name="collectionStatement">2</A>:: [ABC Privacy Collection Statement](https://help.abc.net.au/hc/en-us/articles/360001511015-ABC-Privacy-Collection-Statement-) Last accessed May 23 2021
+<A name="collectionStatement">2</A>: [ABC Privacy Collection Statement](https://help.abc.net.au/hc/en-us/articles/360001511015-ABC-Privacy-Collection-Statement-) Last accessed May 23 2021
 
