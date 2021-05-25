@@ -1,7 +1,7 @@
 # ABCData
 Consideration of a public response to ABC data collection and sharing
 
-Read a draft letter to the ABC board in [markdown](abc.md) or [Word/docx](ABCData.docx) format.
+Read a draft letter to the ABC board in [markdown](abc.md) or [Word/docx](https://github.com/AusOpenTech/ABCData/raw/main/ABCData.docx) format.
 
 or [join the discussion](https://github.com/AusOpenTech/ABCData/discussions) on technical options for non-cooperation.
 
