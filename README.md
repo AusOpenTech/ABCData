@@ -1,9 +1,9 @@
 # ABCData
 Consideration of a public response to ABC data collection and sharing
 
-Read a draft letter to the ABC board in [markdown](abc.md) or [Word/docx](https://github.com/AusOpenTech/ABCData/raw/main/ABCData.docx) format.
+Read a draft letter to the ABC board in [markdown](abc.md) or [Word/docx](https://github.com/AusOpenTech/ABCData/raw/main/ABCData.docx) format. This [slightly-different version](https://github.com/AusOpenTech/ABCData/raw/main/ABCData_ThirdParty.docx) is phrased with the ABC as a third party - I sent it to the [Minister for Communications](https://minister.infrastructure.gov.au/fletcher/contact), the [Shadow Minister for Communications](https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=159771#t2-content-panel), and the [Greens Spokesperson on communications](https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0U#t2-content-panel).
 
-or [join the discussion](https://github.com/AusOpenTech/ABCData/discussions) on technical options for non-cooperation.
+You might also like to [join the discussion](https://github.com/AusOpenTech/ABCData/discussions) on technical options for non-cooperation.
 
 For background reading, you might like to read the ABC's new [privacy collection statement](https://help.abc.net.au/hc/en-us/articles/360001511015-ABC-Privacy-Collection-Statement-) or [privacy policy](https://help.abc.net.au/hc/en-us/articles/360001154976).  Make sure you click on the drop-downs.
 
