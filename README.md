@@ -1,7 +1,5 @@
 # ABCData
-Consideration of a public response to ABC data collection and sharing. The main issues are described here
-
-Read a draft letter to the ABC board in [markdown](abc.md)
+Consideration of a public response to ABC data collection and sharing. The main issues are described [here](abc.md).
 
 You are welcome to re-use (with your own edits) any of the following.
 
