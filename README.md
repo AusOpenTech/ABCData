@@ -17,7 +17,9 @@ https://www.innovationaus.com/experts-urge-abc-to-reverse-risky-log-in-requireme
 
 You might also like to [join the discussion](https://github.com/AusOpenTech/ABCData/discussions) on technical options for non-cooperation.
 
-For a concrete idea of the data we're talking about, see this capture from @wabzqem: "Current data sent from web player to OzTAM (these types of events are sent regularly throughout playback). They also capture IP." Of course, we don't know how much of this is being retained or shared, but the privacy policy does not give any confidence in this regard.
+For a concrete idea of the data we're talking about, see the capture below from @wabzqem: "Current data sent from web player to OzTAM (these types of events are sent regularly throughout playback). They also capture IP." Of course, we don't know how much of this is being retained or shared, but the privacy policy does not give any confidence in this regard.
+
+Update, Oct '21 (VT): I have appealed to the OAIC over the ABC's decision to uphold their rejection of my FoI request for data sharing arrangements. See [The FoI request on RightToKnow](https://www.righttoknow.org.au/request/iview_data_sharing_agreements) and [The letter I sent to the OAIC to appeal](https://github.com/AusOpenTech/ABCData/OAICAppeal.md).
 
 ![ABC Data upload](DataUploadwabzqem.jpeg)
 
